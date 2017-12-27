@@ -45,3 +45,6 @@
 ## 8. 浏览器日志（error-free，改个名字？browser-logger？）
 
 ## 9. 关于首页渲染
+
+## 10. 关于打包
+### 10.1 [webpack打包资源分析（webpack-bundle-analyzer使用）](https://github.com/joy-web/zero/blob/master/10. 关于打包/10.1 webpack-bundle-analyzer.md)
