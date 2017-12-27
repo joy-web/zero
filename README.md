@@ -47,4 +47,4 @@
 ## 9. 关于首页渲染
 
 ## 10. 关于打包
-### 10.1 [webpack打包资源分析（webpack-bundle-analyzer使用）](https://github.com/joy-web/zero/blob/master/10. 关于打包/10.1 webpack-bundle-analyzer.md)
+### 10.1 [webpack打包资源分析（webpack-bundle-analyzer使用）](https://github.com/joy-web/zero/blob/master/10.%20%E5%85%B3%E4%BA%8E%E6%89%93%E5%8C%85/10.1%20webpack-bundle-analyzer.md)
